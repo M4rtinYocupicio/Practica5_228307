@@ -35,7 +35,7 @@ class seatSelection : AppCompatActivity() {
         val row3: RadioGroup=findViewById(R.id.row3)
         val row4: RadioGroup=findViewById(R.id.row4)
 
-        row1.setOnCheckedChangeListener { group, checkedId->
+        row1.setOnCheckedChangeListener { group, checkedId ->
             if(checkedId>-1){
                 row2.clearCheck()
                 row3.clearCheck()
@@ -43,7 +43,7 @@ class seatSelection : AppCompatActivity() {
             }
         }
 
-        row2.setOnCheckedChangeListener { group, checkedId->
+        row2.setOnCheckedChangeListener { group, checkedId ->
             if(checkedId>-1){
                 row1.clearCheck()
                 row3.clearCheck()
@@ -53,7 +53,7 @@ class seatSelection : AppCompatActivity() {
             }
         }
 
-        row3.setOnCheckedChangeListener { group, checkedId->
+        row3.setOnCheckedChangeListener { group, checkedId ->
             if(checkedId>-1){
                 row1.clearCheck()
                 row2.clearCheck()
@@ -63,7 +63,7 @@ class seatSelection : AppCompatActivity() {
             }
         }
 
-        row4.setOnCheckedChangeListener { group, checkedId->
+        row4.setOnCheckedChangeListener { group, checkedId ->
             if(checkedId>-1){
                 row1.clearCheck()
                 row2.clearCheck()

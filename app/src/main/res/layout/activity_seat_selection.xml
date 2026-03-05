@@ -49,7 +49,7 @@
             android:layout_marginHorizontal="3dp"
             android:textAlignment="center"
             android:textColor="@color/black"
-            android:button="android:color/transparent"
+            android:button="@android:color/transparent"
             android:background="@drawable/radio_selectable"
             android:textSize="20sp"
             android:textStyle="bold"/>
@@ -60,7 +60,7 @@
             android:layout_marginHorizontal="3dp"
             android:textAlignment="center"
             android:textColor="@color/black"
-            android:button="android:color/transparent"
+            android:button="@android:color/transparent"
             android:background="@drawable/radio_selectable"
             android:textSize="20sp"
             android:textStyle="bold"/>
@@ -71,7 +71,7 @@
             android:layout_marginHorizontal="3dp"
             android:textAlignment="center"
             android:textColor="@color/black"
-            android:button="android:color/transparent"
+            android:button="@android:color/transparent"
             android:background="@drawable/radio_selectable"
             android:textSize="20sp"
             android:textStyle="bold"/>
@@ -82,7 +82,7 @@
             android:layout_marginHorizontal="3dp"
             android:textAlignment="center"
             android:textColor="@color/black"
-            android:button="android:color/transparent"
+            android:button="@android:color/transparent"
             android:background="@drawable/radio_selectable"
             android:textSize="20sp"
             android:textStyle="bold"/>
@@ -93,7 +93,7 @@
             android:layout_marginHorizontal="3dp"
             android:textAlignment="center"
             android:textColor="@color/black"
-            android:button="android:color/transparent"
+            android:button="@android:color/transparent"
             android:background="@drawable/radio_selectable"
             android:textSize="20sp"
             android:textStyle="bold"/>
@@ -114,7 +114,7 @@
             android:layout_marginHorizontal="3dp"
             android:textAlignment="center"
             android:textColor="@color/black"
-            android:button="android:color/transparent"
+            android:button="@android:color/transparent"
             android:background="@drawable/radio_selectable"
             android:textSize="20sp"
             android:textStyle="bold"/>
@@ -125,7 +125,7 @@
             android:layout_marginHorizontal="3dp"
             android:textAlignment="center"
             android:textColor="@color/black"
-            android:button="android:color/transparent"
+            android:button="@android:color/transparent"
             android:background="@drawable/radio_selectable"
             android:textSize="20sp"
             android:textStyle="bold"/>
@@ -136,7 +136,7 @@
             android:layout_marginHorizontal="3dp"
             android:textAlignment="center"
             android:textColor="@color/black"
-            android:button="android:color/transparent"
+            android:button="@android:color/transparent"
             android:background="@drawable/radio_selectable"
             android:textSize="20sp"
             android:textStyle="bold"/>
@@ -147,7 +147,7 @@
             android:layout_marginHorizontal="3dp"
             android:textAlignment="center"
             android:textColor="@color/black"
-            android:button="android:color/transparent"
+            android:button="@android:color/transparent"
             android:background="@drawable/radio_selectable"
             android:textSize="20sp"
             android:textStyle="bold"/>
@@ -158,7 +158,7 @@
             android:layout_marginHorizontal="3dp"
             android:textAlignment="center"
             android:textColor="@color/black"
-            android:button="android:color/transparent"
+            android:button="@android:color/transparent"
             android:background="@drawable/radio_selectable"
             android:textSize="20sp"
             android:textStyle="bold"/>
@@ -179,7 +179,7 @@
             android:layout_marginHorizontal="3dp"
             android:textAlignment="center"
             android:textColor="@color/black"
-            android:button="android:color/transparent"
+            android:button="@android:color/transparent"
             android:background="@drawable/radio_selectable"
             android:textSize="20sp"
             android:textStyle="bold"/>
@@ -190,7 +190,7 @@
             android:layout_marginHorizontal="3dp"
             android:textAlignment="center"
             android:textColor="@color/black"
-            android:button="android:color/transparent"
+            android:button="@android:color/transparent"
             android:background="@drawable/radio_selectable"
             android:textSize="20sp"
             android:textStyle="bold"/>
@@ -201,7 +201,7 @@
             android:layout_marginHorizontal="3dp"
             android:textAlignment="center"
             android:textColor="@color/black"
-            android:button="android:color/transparent"
+            android:button="@android:color/transparent"
             android:background="@drawable/radio_selectable"
             android:textSize="20sp"
             android:textStyle="bold"/>
@@ -212,7 +212,7 @@
             android:layout_marginHorizontal="3dp"
             android:textAlignment="center"
             android:textColor="@color/black"
-            android:button="android:color/transparent"
+            android:button="@android:color/transparent"
             android:background="@drawable/radio_selectable"
             android:textSize="20sp"
             android:textStyle="bold"/>
@@ -223,7 +223,7 @@
             android:layout_marginHorizontal="3dp"
             android:textAlignment="center"
             android:textColor="@color/black"
-            android:button="android:color/transparent"
+            android:button="@android:color/transparent"
             android:background="@drawable/radio_selectable"
             android:textSize="20sp"
             android:textStyle="bold"/>
@@ -244,7 +244,7 @@
             android:layout_marginHorizontal="3dp"
             android:textAlignment="center"
             android:textColor="@color/black"
-            android:button="android:color/transparent"
+            android:button="@android:color/transparent"
             android:background="@drawable/radio_selectable"
             android:textSize="20sp"
             android:textStyle="bold"/>
@@ -255,7 +255,7 @@
             android:layout_marginHorizontal="3dp"
             android:textAlignment="center"
             android:textColor="@color/black"
-            android:button="android:color/transparent"
+            android:button="@android:color/transparent"
             android:background="@drawable/radio_selectable"
             android:textSize="20sp"
             android:textStyle="bold"/>
@@ -266,7 +266,7 @@
             android:layout_marginHorizontal="3dp"
             android:textAlignment="center"
             android:textColor="@color/black"
-            android:button="android:color/transparent"
+            android:button="@android:color/transparent"
             android:background="@drawable/radio_selectable"
             android:textSize="20sp"
             android:textStyle="bold"/>
@@ -277,7 +277,7 @@
             android:layout_marginHorizontal="3dp"
             android:textAlignment="center"
             android:textColor="@color/black"
-            android:button="android:color/transparent"
+            android:button="@android:color/transparent"
             android:background="@drawable/radio_selectable"
             android:textSize="20sp"
             android:textStyle="bold"/>
@@ -288,7 +288,7 @@
             android:layout_marginHorizontal="3dp"
             android:textAlignment="center"
             android:textColor="@color/black"
-            android:button="android:color/transparent"
+            android:button="@android:color/transparent"
             android:background="@drawable/radio_selectable"
             android:textSize="20sp"
             android:textStyle="bold"/>
