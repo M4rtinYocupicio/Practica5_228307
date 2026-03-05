@@ -353,4 +353,13 @@
 
     </LinearLayout>
 
+    <Button
+        android:id="@+id/confirm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/round_button"
+        android:text="Confirm"
+        android:paddingHorizontal="15dp"
+        android:layout_gravity="center"/>
+
 </LinearLayout>
