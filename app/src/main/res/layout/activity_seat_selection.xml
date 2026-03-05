@@ -43,6 +43,7 @@
         android:orientation="horizontal">
 
         <RadioButton
+            android:id="@+id/asiento1"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:text="1"
@@ -54,6 +55,7 @@
             android:textSize="20sp"
             android:textStyle="bold"/>
         <RadioButton
+            android:id="@+id/asiento2"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:text="2"
@@ -65,6 +67,7 @@
             android:textSize="20sp"
             android:textStyle="bold"/>
         <RadioButton
+            android:id="@+id/asiento3"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:text="3"
@@ -76,6 +79,7 @@
             android:textSize="20sp"
             android:textStyle="bold"/>
         <RadioButton
+            android:id="@+id/asiento4"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:text="4"
@@ -87,6 +91,7 @@
             android:textSize="20sp"
             android:textStyle="bold"/>
         <RadioButton
+            android:id="@+id/asiento5"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:text="5"
@@ -108,6 +113,7 @@
         android:orientation="horizontal">
 
         <RadioButton
+            android:id="@+id/asiento6"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:text="6"
@@ -119,6 +125,7 @@
             android:textSize="20sp"
             android:textStyle="bold"/>
         <RadioButton
+            android:id="@+id/asiento7"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:text="7"
@@ -130,6 +137,7 @@
             android:textSize="20sp"
             android:textStyle="bold"/>
         <RadioButton
+            android:id="@+id/asiento8"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:text="8"
@@ -141,6 +149,7 @@
             android:textSize="20sp"
             android:textStyle="bold"/>
         <RadioButton
+            android:id="@+id/asiento9"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:text="9"
@@ -152,6 +161,7 @@
             android:textSize="20sp"
             android:textStyle="bold"/>
         <RadioButton
+            android:id="@+id/asiento10"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:text="10"
@@ -173,6 +183,7 @@
         android:orientation="horizontal">
 
         <RadioButton
+            android:id="@+id/asiento11"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:text="11"
@@ -184,6 +195,7 @@
             android:textSize="20sp"
             android:textStyle="bold"/>
         <RadioButton
+            android:id="@+id/asiento12"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:text="12"
@@ -195,6 +207,7 @@
             android:textSize="20sp"
             android:textStyle="bold"/>
         <RadioButton
+            android:id="@+id/asiento13"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:text="13"
@@ -206,6 +219,7 @@
             android:textSize="20sp"
             android:textStyle="bold"/>
         <RadioButton
+            android:id="@+id/asiento14"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:text="14"
@@ -217,6 +231,7 @@
             android:textSize="20sp"
             android:textStyle="bold"/>
         <RadioButton
+            android:id="@+id/asiento15"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:text="15"
@@ -238,6 +253,7 @@
         android:orientation="horizontal">
 
         <RadioButton
+            android:id="@+id/asiento16"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:text="16"
@@ -249,6 +265,7 @@
             android:textSize="20sp"
             android:textStyle="bold"/>
         <RadioButton
+            android:id="@+id/asiento17"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:text="17"
@@ -260,6 +277,7 @@
             android:textSize="20sp"
             android:textStyle="bold"/>
         <RadioButton
+            android:id="@+id/asiento18"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:text="18"
@@ -271,6 +289,7 @@
             android:textSize="20sp"
             android:textStyle="bold"/>
         <RadioButton
+            android:id="@+id/asiento19"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:text="19"
@@ -282,6 +301,7 @@
             android:textSize="20sp"
             android:textStyle="bold"/>
         <RadioButton
+            android:id="@+id/asiento20"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:text="20"
